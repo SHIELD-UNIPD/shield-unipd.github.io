@@ -1,0 +1,58 @@
+[
+  {
+    "id": "dexcom",
+    "company": "Dexcom Inc.",
+    "location": "San Diego, CA, USA",
+    "period": "2011–present",
+    "status": "active",
+    "summary": "Our longest running industrial partnership, spanning over a decade of continuous collaboration with one of the world's leading CGM manufacturers. We contributed filtering, calibration, glucose prediction, risk quantification, fault detection, and decision support algorithms embedded in the Dexcom G4 Platinum, G5 Mobile, and G6 sensor platforms. Fourteen patents were transferred to Dexcom as part of these agreements."
+  },
+  {
+    "id": "roche",
+    "company": "Roche Diagnostics International Ltd",
+    "location": "Rotkreuz, Switzerland",
+    "period": "2025–present",
+    "status": "active",
+    "summary": "Active partnership focused on the customisation and validation of our ReplayBG digital twin platform for type 1 diabetes. Work spans platform validation against real world data, integration of a dedicated physical activity module, and the development of tailored simulation functionalities to support Roche's diabetes management research."
+  },
+  {
+    "id": "ultragenyx",
+    "company": "Ultragenyx Pharmaceutical Inc.",
+    "location": "San Francisco, CA, USA",
+    "period": "2024–2025",
+    "status": "ended",
+    "summary": "Collaboration to support Ultragenyx's clinical programme for Glycogen Storage Disease Type Ia (GSDIa), a rare metabolic disorder. We performed retrospective analysis of CGM and SMBG traces to characterise glucose control patterns in affected individuals."
+  },
+  {
+    "id": "solianis",
+    "company": "Solianis Monitoring AG",
+    "location": "Zurich, Switzerland",
+    "period": "2009–2012",
+    "status": "ended",
+    "summary": "Development of signal processing and calibration algorithms for a noninvasive multisensor system for continuous glucose monitoring, contributing expertise in signal conditioning and personalised calibration for novel sensor technologies."
+  },
+  {
+    "id": "epsilon",
+    "company": "The Epsilon Group",
+    "location": "Charlottesville, VA, USA",
+    "period": "2013–2014",
+    "status": "ended",
+    "summary": "Development of a type 2 diabetes simulation framework for testing new drug effects, combining a glucose insulin model core with a dedicated software interface."
+  },
+  {
+    "id": "abbott",
+    "company": "Abbott Diabetes Care",
+    "location": "Alameda, CA, USA",
+    "period": "2008",
+    "status": "ended",
+    "summary": "Collaboration to evaluate our noise filtering algorithms on Abbott's FreeStyle Navigator CGM sensor, one of the first continuous glucose monitors approved in the US."
+  },
+  {
+    "id": "menarini",
+    "company": "Menarini Diagnostics",
+    "location": "Florence, Italy",
+    "period": "2006–2008",
+    "status": "ended",
+    "summary": "One of our first industrial collaborations, focused on developing filtering and prediction algorithms for the Menarini Glucoday CGM device, among the earliest wearable glucose monitors commercially available in Europe."
+  }
+]

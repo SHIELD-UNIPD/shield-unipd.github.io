@@ -1,0 +1,79 @@
+[
+  {
+    "id": "facchinetti",
+    "name": "Andrea Facchinetti",
+    "role": "Associate Professor",
+    "roleLevel": 1,
+    "bio": "Andrea Facchinetti is Associate Professor of Bioengineering at the University of Padova. He leads the SHIELD group and has spent over 15 years developing signal processing and machine learning algorithms for continuous glucose monitoring. His work on the Dexcom G4/G5 sensor contributed to the first FDA-approved non-adjunctive CGM system, and his in-silico clinical trial framework has been validated on over 40,000 virtual patients.",
+    "email": "andrea.facchinetti@unipd.it",
+    "scholar": "https://scholar.google.com/citations?user=facchinetti",
+    "orcid": "https://orcid.org/0000-0002-0084-6945",
+    "photo": "assets/photos/facchinetti.jpg"
+  },
+  {
+    "id": "cappon",
+    "name": "Giacomo Cappon",
+    "role": "Assistant Professor (RTDa)",
+    "roleLevel": 2,
+    "bio": "Giacomo Cappon is a tenure-track Assistant Professor at the University of Padova. He developed the first digital twin framework for Type 1 Diabetes and his research focuses on machine learning algorithms for diabetes management and decision support systems.",
+    "email": "giacomo.cappon@unipd.it",
+    "scholar": "https://scholar.google.com/citations?user=cappon",
+    "orcid": "https://orcid.org/0000-0001-5097-5557",
+    "photo": "assets/photos/cappon.png"
+  },
+  {
+    "id": "prendin",
+    "name": "Francesco Prendin",
+    "role": "Senior Postdoctoral Fellow",
+    "roleLevel": 3,
+    "bio": "Francesco Prendin is a Senior Postdoctoral Fellow specializing in physics-informed digital twins and deep learning for glucose forecasting. His work on physiologically constrained generative models and monotonic neural networks bridges data-driven methods with physiological plausibility.",
+    "email": "francesco.prendin@unipd.it",
+    "scholar": "https://scholar.google.com/citations?user=prendin",
+    "orcid": "https://orcid.org/0000-0002-0084-0000",
+    "photo": "assets/photos/prendin.jpg"
+  },
+  {
+    "id": "cossu",
+    "name": "Luca Cossu",
+    "role": "Postdoctoral Fellow",
+    "roleLevel": 3,
+    "bio": "Luca Cossu is a Postdoctoral Fellow working on clinical decision support systems, mobile health platforms, and wearable sensor signal processing. He developed IMPACT, an integrated mobile platform for automated clinical trials, and works on meal detection from CGM and smartwatch data, reinforcement learning for insulin dosing, and LLMs for clinical reporting.",
+    "email": "luca.cossu@unipd.it",
+    "scholar": "https://scholar.google.com/citations?user=cossu",
+    "orcid": "https://orcid.org/0000-0002-8804-0722",
+    "photo": "assets/photos/cossu.jpg"
+  },
+  {
+    "id": "pellizzari",
+    "name": "Elisa Pellizzari",
+    "role": "Postdoctoral Fellow",
+    "roleLevel": 3,
+    "bio": "Elisa Pellizzari is a Postdoctoral Fellow focusing on digital twins for Type 1 diabetes, CGM data analysis, and AI-driven therapy optimization. She develops tree-inspired insulin dosing algorithms, deep learning corrective bolus models, and GAN-based synthetic data generation.",
+    "email": "elisa.pellizzari@unipd.it",
+    "scholar": "https://scholar.google.com/citations?user=pellizzari",
+    "orcid": "https://orcid.org/0000-0003-0000-0000",
+    "photo": "assets/photos/pellizzari.jpg"
+  },
+  {
+    "id": "calzavara",
+    "name": "Andrea Calzavara",
+    "role": "PhD Student",
+    "roleLevel": 4,
+    "bio": "Andrea Calzavara is a PhD student investigating explainable AI methods for glucose forecasting and physiology-constrained neural networks. His research develops deep learning architectures that are grounded in the physiological mechanisms of glucose dynamics, making predictions transparent and clinically interpretable.",
+    "email": "andrea.calzavara@unipd.it",
+    "scholar": null,
+    "orcid": null,
+    "photo": "assets/photos/calzavara.jpg"
+  },
+  {
+    "id": "gastaldello",
+    "name": "Alberto Gastaldello",
+    "role": "PhD Student",
+    "roleLevel": 4,
+    "bio": "Alberto Gastaldello is a PhD student working on data-driven diagnostics and wearable sensor reliability. His research applies causal inference, machine learning classifiers, and anomaly detection to CGM and activity data for prediabetes screening, exercise-glucose modelling, and fault detection in continuous sensing systems.",
+    "email": "alberto.gastaldello@unipd.it",
+    "scholar": null,
+    "orcid": null,
+    "photo": "assets/photos/gastaldello.jpg"
+  }
+]

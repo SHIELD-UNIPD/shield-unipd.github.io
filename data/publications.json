@@ -1,0 +1,209 @@
+[
+  {
+    "id": "pub-dt-01",
+    "topic": "digital-twins",
+    "title": "ReplayBG: A Digital Twin-Based Methodology to Identify a Personalized Model From Type 1 Diabetes Data and Simulate Glucose Concentrations to Assess Alternative Therapies",
+    "authors": "Cappon G, Vettoretti M, Sparacino G, Del Favero S, Facchinetti A",
+    "venue": "IEEE Transactions on Biomedical Engineering",
+    "year": 2023,
+    "doi": "10.1109/TBME.2023.3286856"
+  },
+  {
+    "id": "pub-dt-02",
+    "topic": "digital-twins",
+    "title": "Digital Twins in Type 1 Diabetes: A Systematic Review",
+    "authors": "Cappon G, Facchinetti A",
+    "venue": "Journal of Diabetes Science and Technology",
+    "year": 2024,
+    "doi": null
+  },
+  {
+    "id": "pub-dt-03",
+    "topic": "digital-twins",
+    "title": "Development of insulin bolus calculators in type 1 diabetes using a framework based on real-world data, digital twins and machine learning",
+    "authors": "Pellizzari E, Cappon G, Nicolis G, Sparacino G, Facchinetti A",
+    "venue": "IEEE Transactions on Biomedical Engineering",
+    "year": 2026,
+    "doi": null
+  },
+  {
+    "id": "pub-dt-04",
+    "topic": "digital-twins",
+    "title": "System Architecture of TWIN: A New Digital Twin-Based Clinical Decision Support System for Type 1 Diabetes Management in Children",
+    "authors": "Cappon G, Pellizzari E, Cossu L, Deodati A, Schiaffini R, Cianfarani S, Sparacino G, Facchinetti A",
+    "venue": "20th IEEE-EMBS International Conference on Body Sensor Networks (BSN)",
+    "year": 2023,
+    "doi": null
+  },
+  {
+    "id": "pub-gf-01",
+    "topic": "decision-support",
+    "title": "Artificial Intelligence and Machine Learning for Improving Glycemic Control in Diabetes: Best Practices, Pitfalls, and Opportunities",
+    "authors": "Jacobs PG, Herrero P, Facchinetti A, Vehi J, Kovatchev B, Breton MD, Cinar A, Nikita KS, Doyle FJ, Bondia J, Battelino T, Castle JR, Zarkogianni K, Narayan R, Mosquera-Lopez C",
+    "venue": "IEEE Reviews in Biomedical Engineering",
+    "year": 2024,
+    "doi": null
+  },
+  {
+    "id": "pub-gf-02",
+    "topic": "decision-support",
+    "title": "Individualized models for glucose prediction in type 1 diabetes: comparing black-box approaches to a physiological white-box one",
+    "authors": "Cappon G, Prendin F, Facchinetti A, Sparacino G, Del Favero S",
+    "venue": "IEEE Transactions on Biomedical Engineering",
+    "year": 2023,
+    "doi": null
+  },
+  {
+    "id": "pub-gf-03",
+    "topic": "decision-support",
+    "title": "Forecasting of glucose levels and hypoglycemic events: head-to-head comparison of linear and nonlinear algorithms based on continuous glucose monitoring data only",
+    "authors": "Prendin F, Del Favero S, Vettoretti M, Sparacino G, Facchinetti A",
+    "venue": "Sensors",
+    "year": 2021,
+    "doi": null
+  },
+  {
+    "id": "pub-gf-04",
+    "topic": "decision-support",
+    "title": "Clinical efficacy evaluation of a CGM-guided forecasting algorithm to mitigate postprandial hypoglycaemia after Roux-en-Y gastric bypass surgery – A randomized controlled clinical trial",
+    "authors": "Journeaux A, Zbinden S, Prendin F, Cossu L, Streicher O, Rolfes E, Fragozo-Ramos MC, Piazza C, Vukovic D, Nett P, Giachino D, Zehetner J, Cappon G, Herzig D, Facchinetti A, Bally L",
+    "venue": "Diabetes Technology and Therapeutics",
+    "year": 2026,
+    "doi": "10.1177/15209156261432146"
+  },
+  {
+    "id": "pub-ed-01",
+    "topic": "event-detection",
+    "title": "Automatic identification of unreported meals from continuous glucose monitoring data in individuals after bariatric surgery using a template matching algorithm",
+    "authors": "Pellizzari E, Prendin F, Cappon G, Idi E, Del Favero S, Herzig D, Bally L, Facchinetti A",
+    "venue": "Scientific Reports",
+    "year": 2025,
+    "doi": null
+  },
+  {
+    "id": "pub-ed-02",
+    "topic": "event-detection",
+    "title": "Glu4: An open-source package for real-time forecasting and alerting post-bariatric hypoglycemia based on continuous glucose monitoring",
+    "authors": "Cossu L, Prendin F, Cappon G, Herzig D, Bally L, Facchinetti A",
+    "venue": "Clinical eHealth",
+    "year": 2025,
+    "doi": "10.1016/j.ceh.2025.01.003"
+  },
+  {
+    "id": "pub-ed-03",
+    "topic": "event-detection",
+    "title": "Forecasting postbariatric hypoglycemia in patients after Roux-en-Y gastric bypass using model-based algorithms fed by continuous glucose monitoring data",
+    "authors": "Prendin F, Cappon G, Tripyla A, Herzig D, Bally L, Facchinetti A",
+    "venue": "Diabetes, Obesity and Metabolism",
+    "year": 2022,
+    "doi": null
+  },
+  {
+    "id": "pub-ed-04",
+    "topic": "event-detection",
+    "title": "Towards a decision support system for post-bariatric hypoglycemia: development of forecasting algorithms in unrestricted daily-life conditions",
+    "authors": "Prendin F, Streicher O, Cappon G, Rolfes E, Herzig D, Bally L, Facchinetti A",
+    "venue": "BMC Medical Informatics and Decision Making",
+    "year": 2025,
+    "doi": null
+  },
+  {
+    "id": "pub-bc-01",
+    "topic": "decision-support",
+    "title": "drCORRECT: An Algorithm for the Preventive Administration of Postprandial Corrective Insulin Boluses in Type 1 Diabetes Management",
+    "authors": "Pellizzari E, Prendin F, Cappon G, Sparacino G, Facchinetti A",
+    "venue": "Journal of Diabetes Science and Technology",
+    "year": 2023,
+    "doi": null
+  },
+  {
+    "id": "pub-bc-02",
+    "topic": "decision-support",
+    "title": "A Personalized and Adaptive Insulin Bolus Calculator Based on Double Deep Q-Learning to Improve Type 1 Diabetes Management",
+    "authors": "Noaro G, Zhu T, Cappon G, Facchinetti A, Georgiou P",
+    "venue": "IEEE Journal of Biomedical and Health Informatics",
+    "year": 2023,
+    "doi": null
+  },
+  {
+    "id": "pub-bc-03",
+    "topic": "decision-support",
+    "title": "Incorporating sparse and quantized carbohydrates suggestions in model predictive control for artificial pancreas in type 1 diabetes",
+    "authors": "Pavan J, Salvagnin D, Facchinetti A, Sparacino G, Del Favero S",
+    "venue": "IEEE Transactions on Control Systems Technology",
+    "year": 2023,
+    "doi": null
+  },
+  {
+    "id": "pub-xai-01",
+    "topic": "xai",
+    "title": "The importance of interpreting machine learning models for blood glucose prediction in diabetes: an analysis using SHAP",
+    "authors": "Prendin F, Pavan J, Cappon G, Del Favero S, Sparacino G, Facchinetti A",
+    "venue": "Scientific Reports",
+    "year": 2023,
+    "doi": null
+  },
+  {
+    "id": "pub-xai-02",
+    "topic": "xai",
+    "title": "Autoencoder-based Detection of Insulin Pump Faults in Type 1 Diabetes Treatment",
+    "authors": "Idi E, Prendin F, Sparacino G, Del Favero S",
+    "venue": "IEEE Journal of Biomedical and Health Informatics",
+    "year": 2025,
+    "doi": null
+  },
+  {
+    "id": "pub-cg-01",
+    "topic": "cgm-wearable",
+    "title": "Adaptive and self-learning Bayesian filtering algorithm to statistically characterize and improve signal-to-noise ratio of heart-rate data in wearable devices",
+    "authors": "Cossu L, Cappon G, Facchinetti A",
+    "venue": "Journal of the Royal Society Interface",
+    "year": 2024,
+    "doi": "10.1098/rsif.2024.0222"
+  },
+  {
+    "id": "pub-cg-02",
+    "topic": "cgm-wearable",
+    "title": "Automated Processing and Feature Extraction of Wearable Devices Signals in the Monitoring and Forecasting of Multiple Sclerosis and Amyotrophic Lateral Sclerosis Progression",
+    "authors": "Cossu L, Cappon G, Facchinetti A",
+    "venue": "Frontiers in Digital Health",
+    "year": 2024,
+    "doi": "10.3389/fdgth.2024.1402943"
+  },
+  {
+    "id": "pub-cg-03",
+    "topic": "cgm-wearable",
+    "title": "AGATA: A Toolbox for Automated Glucose Data Analysis",
+    "authors": "Cappon G, Sparacino G, Facchinetti A",
+    "venue": "Journal of Diabetes Science and Technology",
+    "year": 2023,
+    "doi": null
+  },
+  {
+    "id": "pub-cg-04",
+    "topic": "usability-data",
+    "title": "Design and Usability Assessment of a User-Centered, Modular Platform for Real-World Data Acquisition in Clinical Trials involving Post-bariatric Surgery Patients",
+    "authors": "Cossu L, Cappon G, Streicher O, Herzig D, Bally L, Facchinetti A",
+    "venue": "Journal of Diabetes Science and Technology",
+    "year": 2023,
+    "doi": "10.1177/19322968231220061"
+  },
+  {
+    "id": "pub-cg-05",
+    "topic": "usability-data",
+    "title": "An integrated mobile platform for automated data collection and real-time patient monitoring in diabetes clinical trials",
+    "authors": "Cappon G, Cossu L, Boscari F, Bruttomesso D, Sparacino G, Facchinetti A",
+    "venue": "Journal of Diabetes Science and Technology",
+    "year": 2021,
+    "doi": "10.1177/19322968211024620"
+  },
+  {
+    "id": "pub-cg-06",
+    "topic": "cgm-wearable",
+    "title": "CGM Profiling in Roux-en-Y Gastric Bypass, Type 1 Diabetes and Healthy Adults: Unmasking Deviations from Normoglycaemia",
+    "authors": "Cossu L, Facchinetti A, Bally L",
+    "venue": "Diabetes, Obesity and Metabolism",
+    "year": 2025,
+    "doi": "10.1111/dom.70059"
+  }
+]

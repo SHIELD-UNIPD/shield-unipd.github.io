@@ -1,0 +1,50 @@
+[
+  {
+    "id": "decision-support",
+    "title": "Clinical Decision Support Systems",
+    "subtitle": "Forecasting, dosing & therapy recommendations",
+    "color": "#2e7fb8",
+    "icon": "brain",
+    "description": "We develop intelligent clinical decision support systems for diabetes management, combining personalized glucose forecasting with adaptive therapy recommendations. Our forecasting models — built on LSTMs, transformer architectures, and physics-informed neural networks — predict future glucose levels over 30 to 120-minute horizons, enabling proactive responses to hypoglycaemia and hyperglycaemia. We integrate these predictions into next-generation bolus calculators that go beyond static formulas: AI-powered systems that adapt dynamically to the patient's physiological state, recent glycaemic history, activity, and meal context using reinforcement learning. The result is a full decision-support pipeline from anticipation to action, validated in silico and in pilot clinical studies."
+  },
+  {
+    "id": "event-detection",
+    "title": "Automatic Event Detection",
+    "subtitle": "Meals, boluses & exercise from sensor signals",
+    "color": "#27ae60",
+    "icon": "search",
+    "description": "Reducing the burden of manual logging is essential for real-world adoption of digital health tools. We develop algorithms that automatically identify clinically relevant events, including meal intake, insulin boluses, physical activity, and stress, directly from CGM traces, smartwatch signals, and user context. These methods combine pattern recognition, Bayesian filtering, and neural network classifiers to produce robust detections without requiring continuous user input, improving the accuracy and continuity of adaptive therapy support."
+  },
+  {
+    "id": "xai",
+    "title": "eXplainable AI",
+    "subtitle": "Transparent models for clinical trust",
+    "color": "#e67e22",
+    "icon": "lightbulb",
+    "description": "AI systems that cannot explain their reasoning are unlikely to be trusted or adopted in clinical practice. We integrate eXplainable AI (XAI) techniques, including SHAP values, attention maps, monotonic network constraints, and rule-extraction methods, across our predictive models to produce human-interpretable explanations alongside each output. The goal is to give both patients and clinicians a clear understanding of why the system makes a given recommendation, fostering transparency, accountability, and safe adoption of AI in diabetes care."
+  },
+  {
+    "id": "cgm-wearable",
+    "title": "CGM & Wearable Sensing",
+    "subtitle": "Signal quality, reliability & multi-sensor fusion",
+    "color": "#16a085",
+    "icon": "wifi",
+    "description": "Continuous glucose monitoring sensors and consumer wearables are the primary data sources for our algorithms. We investigate the full sensing pipeline: CGM signal denoising and calibration, stochastic error modelling, fault detection in sensor-pump systems, and fusion of multi-modal wearable data (heart rate, accelerometry, skin temperature) to enrich the physiological picture available to AI models. This foundational work ensures that downstream algorithms operate on the highest-quality data achievable from real-world devices."
+  },
+  {
+    "id": "digital-twins",
+    "title": "Digital Twins for T1D",
+    "subtitle": "In-silico trials and physiological simulation",
+    "color": "#c0392b",
+    "icon": "clone",
+    "description": "Digital twins are personalized computational replicas of individual patients that allow algorithms and therapies to be tested safely before clinical deployment. We develop and apply the ReplayBG digital twin framework, which re-simulates a patient's glycaemic response to historical or hypothetical therapy scenarios. These in-silico environments support algorithm validation, clinical trial design, and patient-specific therapy optimization. We also extend digital twin technology to post-bariatric populations and integrate generative AI models to expand the synthetic patient cohort for robust statistical testing."
+  },
+  {
+    "id": "usability-data",
+    "title": "Usability & Data Platforms",
+    "subtitle": "mHealth tools, trials & real-world data collection",
+    "color": "#5c6bc0",
+    "icon": "mobile-alt",
+    "description": "Clinically useful algorithms must be deployable in real-world settings and validated with real-world data. We design and evaluate mobile health platforms and data acquisition tools that support multi-center clinical trials involving patients with diabetes and post-bariatric surgery. Our work covers the full pipeline from user-centered design and usability assessment to automated data collection, real-time patient monitoring, and open-source CGM analysis toolboxes. By building and openly releasing validated digital infrastructure, we ensure that our algorithms can be rigorously tested and deployed outside the laboratory."
+  }
+]

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Page Not Found — SHIELD</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .error-page { min-height: calc(100vh - var(--nav-h)); display: flex; align-items: center; justify-content: center; text-align: center; }
+    .error-code { font-size: 6rem; font-weight: 800; color: var(--border); line-height: 1; }
+    .error-msg { font-size: 1.2rem; color: var(--muted); margin: 1rem 0 2rem; }
+  </style>
+</head>
+<body>
+  <nav class="nav">
+    <div class="nav__inner">
+      <a href="index.html" class="nav__brand">
+        <img src="assets/logo.png" alt="SHIELD" class="nav__logo-img" onerror="this.style.display='none'">
+        <span class="nav__logo">SHIELD<span>Bioengineering · UniPD</span></span>
+      </a>
+      <div class="nav__links">
+        <a href="index.html">Home</a>
+        <a href="team.html">Team</a>
+        <a href="research.html">Research</a>
+        <a href="publications.html">Publications</a>
+        <a href="projects.html">Projects</a>
+        <a href="industry.html">Industry</a>
+        <a href="contact.html">Contact</a>
+      </div>
+      <div class="nav__hamburger" aria-label="Menu" role="button" tabindex="0">
+        <span></span><span></span><span></span>
+      </div>
+    </div>
+  </nav>
+  <div class="error-page">
+    <div>
+      <div class="error-code">404</div>
+      <p class="error-msg">The page you're looking for doesn't exist.</p>
+      <a href="index.html" class="btn btn--primary">← Back to Home</a>
+    </div>
+  </div>
+  <script src="js/main.js"></script>
+</body>
+</html>

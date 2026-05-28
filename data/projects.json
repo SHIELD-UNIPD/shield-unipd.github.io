@@ -1,0 +1,38 @@
+[
+  {
+    "id": "brainteaser",
+    "title": "BRAINTEASER",
+    "funder": "EU H2020",
+    "funderType": "eu",
+    "period": "2021–2025",
+    "description": "BRAINTEASER (BRinging Artificial INTElligence home for people with Amyotrophic lateral sclerosis and multiple SclERosis) was a Horizon 2020 project that developed smartwatch-based digital biomarkers for ALS and MS patients. We contributed an adaptive signal processing pipeline for heart rate and activity data from commercial wearables, extracting physiologically meaningful features to support remote disease monitoring and quality-of-life assessment.",
+    "url": "https://brainteaser-project.eu"
+  },
+  {
+    "id": "glucomfort",
+    "title": "GLUCOMFORT",
+    "funder": "PRIN 2020",
+    "funderType": "prin",
+    "period": "2022–2025",
+    "description": "GLUCOMFORT investigated a minimally invasive tattoo-based CGM system for continuous glucose sensing without subcutaneous needles. We were responsible for the signal processing and data analysis pipeline, characterising sensor behaviour, developing calibration algorithms, and validating accuracy against reference CGM systems in pilot studies.",
+    "url": null
+  },
+  {
+    "id": "breathe",
+    "title": "BREATHE",
+    "funder": "PRIN 2022",
+    "funderType": "prin",
+    "period": "2023–2025",
+    "description": "BREATHE focused on asthma management through wearable monitoring and air quality sensing. We developed the data integration platform that combines respiratory signals from wearable devices with environmental data (PM2.5, NO2, pollen) to build personalised early-warning models for asthma exacerbations, supporting both clinical management and patient self-care.",
+    "url": null
+  },
+  {
+    "id": "dare",
+    "title": "DARE",
+    "funder": "PNRR",
+    "funderType": "pnrr",
+    "period": "2022–2026",
+    "description": "DARE (Digital tAstronomy and REsearch infrastructure) includes a spoke on digital health for paediatric Type 1 diabetes. We are contributing a clinical decision support platform built around the ReplayBG digital twin, providing personalised glucose forecasts and therapy recommendations for paediatric T1D patients, with real-world validation at Bambino Gesù Children's Hospital in Rome.",
+    "url": null
+  }
+]
