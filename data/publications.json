@@ -20,11 +20,11 @@
   {
     "id": "pub-dt-03",
     "topic": "digital-twins",
-    "title": "Development of insulin bolus calculators in type 1 diabetes using a framework based on real-world data, digital twins and machine learning",
+    "title": "Development of Insulin Bolus Calculators in Type 1 Diabetes using a Framework based on Real-World Data, Digital Twins and Machine Learning",
     "authors": "Pellizzari E, Cappon G, Nicolis G, Sparacino G, Facchinetti A",
     "venue": "IEEE Transactions on Biomedical Engineering",
     "year": 2026,
-    "doi": null
+    "doi": "10.1109/TBME.2025.3648515"
   },
   {
     "id": "pub-dt-04",
@@ -33,7 +33,7 @@
     "authors": "Cappon G, Pellizzari E, Cossu L, Deodati A, Schiaffini R, Cianfarani S, Sparacino G, Facchinetti A",
     "venue": "20th IEEE-EMBS International Conference on Body Sensor Networks (BSN)",
     "year": 2023,
-    "doi": null
+    "doi": "10.1109/BSN58485.2023.10331272"
   },
   {
     "id": "pub-gf-01",
@@ -78,7 +78,7 @@
     "authors": "Pellizzari E, Prendin F, Cappon G, Idi E, Del Favero S, Herzig D, Bally L, Facchinetti A",
     "venue": "Scientific Reports",
     "year": 2025,
-    "doi": null
+    "doi": "10.1038/s41598-025-92275-3"
   },
   {
     "id": "pub-ed-02",
@@ -114,7 +114,7 @@
     "authors": "Pellizzari E, Prendin F, Cappon G, Sparacino G, Facchinetti A",
     "venue": "Journal of Diabetes Science and Technology",
     "year": 2023,
-    "doi": null
+    "doi": "10.1177/19322968231221768"
   },
   {
     "id": "pub-bc-02",
