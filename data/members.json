@@ -59,11 +59,11 @@
     "name": "Andrea Calzavara",
     "role": "PhD Student",
     "roleLevel": 4,
-    "bio": "Andrea Calzavara is a PhD student investigating explainable AI methods for glucose forecasting and physiology-constrained neural networks. His research develops deep learning architectures that are grounded in the physiological mechanisms of glucose dynamics, making predictions transparent and clinically interpretable.",
-    "email": "andrea.calzavara@unipd.it",
-    "scholar": null,
-    "orcid": null,
-    "photo": "assets/photos/calzavara.jpg"
+    "bio": "Andrea Calzavara is a PhD student investigating the use of deep learning to support proactive Type 1 diabetes therapy optimization. His current research focuses on explainable and physiologically grounded blood glucose forecasting to ensure safe and reliable deployment in clinical decision-making applications.",
+    "email": "andrea.calzavara@dei.unipd.it",
+    "scholar": "https://scholar.google.com/citations?user=X7N54J0AAAAJ&hl=en&oi=ao",
+    "orcid": "https://orcid.org/0009-0009-2265-9053",
+    "photo": "assets/photos/calzavara.png"
   },
   {
     "id": "gastaldello",
@@ -71,7 +71,7 @@
     "role": "PhD Student",
     "roleLevel": 4,
     "bio": "Alberto Gastaldello is a PhD student working on data-driven diagnostics and wearable sensor reliability. His research applies causal inference, machine learning classifiers, and anomaly detection to CGM and activity data for prediabetes screening, exercise-glucose modelling, and fault detection in continuous sensing systems.",
-    "email": "alberto.gastaldello@unipd.it",
+    "email": "alberto.gastaldello@dei.unipd.it",
     "scholar": null,
     "orcid": null,
     "photo": "assets/photos/gastaldello.jpg"
