@@ -120,7 +120,7 @@ async function initHome() {
 // ── Page: Team ────────────────────────────────────────────────────────────────
 
 const ROLE_LABEL = {
-  1: { text: 'Principal Investigator', color: 'var(--navy)' },
+  1: { text: 'Head of the research group', color: 'var(--navy)' },
   2: { text: 'Researcher',             color: 'var(--blue)' },
   3: { text: 'Postdoctoral Fellow',    color: '#16a085' },
   4: { text: 'PhD Student',            color: '#8e44ad' },
@@ -139,6 +139,7 @@ async function initTeam() {
     const avatar = avatarHTML(m, 80);
     const links = [
       m.email   ? `<a href="mailto:${m.email}">✉ Email</a>` : '',
+      m.website ? `<a href="${m.website}" target="_blank" rel="noopener">Website</a>` : '',
       m.scholar ? `<a href="${m.scholar}" target="_blank" rel="noopener">Scholar</a>` : '',
       m.orcid   ? `<a href="${m.orcid}"   target="_blank" rel="noopener">ORCID</a>`   : '',
     ].filter(Boolean).join('');
@@ -253,7 +254,13 @@ async function initProjects() {
 
   const memberMap = Object.fromEntries(members.map(m => [m.id, m]));
 
-  container.innerHTML = projects.map(p => {
+  const endYear = p => {
+    const part = p.period.split('–')[1] || '';
+    return part.toLowerCase() === 'ongoing' ? Infinity : (parseInt(part) || 0);
+  };
+  const sorted = [...projects].sort((a, b) => endYear(b) - endYear(a));
+
+  container.innerHTML = sorted.map(p => {
     const urlEl = p.url ? `<a href="${p.url}" class="btn btn--primary" target="_blank" rel="noopener" style="margin-top:.75rem;font-size:.82rem;padding:.4rem .9rem;">Website ↗</a>` : '';
 
     return `<div class="project-card">

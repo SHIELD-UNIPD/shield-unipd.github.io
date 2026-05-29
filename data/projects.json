@@ -6,7 +6,7 @@
     "funderType": "eu",
     "period": "2021–2025",
     "description": "BRAINTEASER (BRinging Artificial INTElligence home for people with Amyotrophic lateral sclerosis and multiple SclERosis) was a Horizon 2020 project that developed smartwatch-based digital biomarkers for ALS and MS patients. We contributed an adaptive signal processing pipeline for heart rate and activity data from commercial wearables, extracting physiologically meaningful features to support remote disease monitoring and quality-of-life assessment.",
-    "url": "https://brainteaser-project.eu"
+    "url": "https://brainteaser.health"
   },
   {
     "id": "glucomfort",
@@ -32,7 +32,16 @@
     "funder": "PNRR",
     "funderType": "pnrr",
     "period": "2022–2026",
-    "description": "DARE (Digital tAstronomy and REsearch infrastructure) includes a spoke on digital health for paediatric Type 1 diabetes. We are contributing a clinical decision support platform built around the ReplayBG digital twin, providing personalised glucose forecasts and therapy recommendations for paediatric T1D patients, with real-world validation at Bambino Gesù Children's Hospital in Rome.",
+    "description": "DARE (Digital lifelong prevention) includes a spoke on digital health for paediatric Type 1 diabetes. We are contributing a clinical decision support platform built around the ReplayBG digital twin, providing personalised glucose forecasts and therapy recommendations for paediatric T1D patients, with real-world validation at Bambino Gesù Children's Hospital in Rome.",
     "url": null
+  },
+    {
+    "id": "diana",
+    "title": "DIANA",
+    "funder": "FIS 3",
+    "funderType": "mur",
+    "period": "2026–ongoing",
+    "description": "BRAINTEASER (BRinging Artificial INTElligence home for people with Amyotrophic lateral sclerosis and multiple SclERosis) was a Horizon 2020 project that developed smartwatch-based digital biomarkers for ALS and MS patients. We contributed an adaptive signal processing pipeline for heart rate and activity data from commercial wearables, extracting physiologically meaningful features to support remote disease monitoring and quality-of-life assessment.",
+    "url": "https://diana-unipd.github.io"
   }
 ]

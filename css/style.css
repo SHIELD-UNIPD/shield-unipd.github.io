@@ -718,6 +718,7 @@ ul { list-style: none; }
 .funder-badge--prin   { background: #009246; color: var(--white); }
 .funder-badge--pnrr   { background: #0066cc; color: var(--white); }
 .funder-badge--industry { background: var(--navy); color: var(--white); }
+.funder-badge--mur { background: #e67e22; color: var(--white); }
 
 .project-period {
   font-size: .8rem;
